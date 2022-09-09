@@ -1,0 +1,9 @@
+node_modules/
+cache/
+artifacts/
+publish/
+build/
+# flatten/
+
+.env
+scripts/
